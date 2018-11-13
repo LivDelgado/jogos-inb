@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="25" height="171" tilewidth="32" tileheight="32" nextobjectid="71">
+ <tileset firstgid="1" name="cave_tileset" tilewidth="32" tileheight="32">
+  <image source="cave_tileset.png" width="320" height="224"/>
+ </tileset>
+ <tileset firstgid="71" name="artrage" tilewidth="32" tileheight="32">
+  <image source="artrage.png" width="800" height="5472"/>
+ </tileset>
+ <tileset firstgid="4346" name="tiles01" tilewidth="32" tileheight="32">
+  <image source="tiles01.png" width="480" height="256"/>
+ </tileset>
+ <tileset firstgid="4466" name="tesouro" tilewidth="32" tileheight="32">
+  <image source="tesouro.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="4468" name="flower" tilewidth="32" tileheight="32">
+  <image source="flower.png" width="192" height="96"/>
+ </tileset>
+ <layer name="plats" width="25" height="171">
+  <data encoding="base64" compression="zlib">
+   eJztmMkNAjEMRWkhRSEkCqAD+m+BA4cRaLJ4+Z44+U/KjXj5XhTmdlufR2kfIidC0wx1Q8eWQYNItHr07u2sqYVX8T1nvIvvWY1nOQ7aPsLHv31vH2f2JT5q95Ga70hP55U1l+Quzd+j71E+MtPK11o/aT/sMCMSvHe8pMbkoKWJh261+x6zsXJtNblItbRqPeJHu1MtdjzvSu23Ykf50O5B7lEss78BPGPS9J02XiSRPpB+vH1YdwjC72rMvCsiiZ4PT613rFcLRA/PPCfIuNC7F73jpfZnqWkmZtcxIp7ZNSB10LtgxIbFz2ictd9l7ttMsaLQ9G6EZpE+uH9j2eVt3UIbZ2ReWbX1hjrg8uZ/qmvx1p21+wWdP1JnzuMX6pAP1oy0kLw72DPzo63dFd8ZkLY9fXE+4qC21ACBRsdRrS07gXXt09LHOiO9e5zFvGSqHSq+TBoQOfeCPx8qxgS8
+  </data>
+ </layer>
+ <objectgroup name="ganhaPontos">
+  <object id="60" gid="4468" x="228" y="5276" width="32" height="32"/>
+  <object id="61" gid="4468" x="316" y="5252" width="32" height="32"/>
+  <object id="62" gid="4468" x="525.333" y="5184" width="32" height="32"/>
+  <object id="63" gid="4468" x="237.333" y="5028" width="32" height="32"/>
+  <object id="64" gid="4468" x="2.66667" y="4898.67" width="32" height="32"/>
+  <object id="65" gid="4468" x="162.667" y="4545.33" width="32" height="32"/>
+  <object id="66" gid="4468" x="358.667" y="4130.67" width="32" height="32"/>
+  <object id="67" gid="4468" x="404" y="3846.67" width="32" height="32"/>
+  <object id="68" gid="4468" x="485.333" y="3302.67" width="32" height="32"/>
+  <object id="69" gid="4468" x="420" y="2852" width="32" height="32"/>
+  <object id="70" gid="4468" x="389.333" y="2118.67" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="ganhaVida"/>
+</map>

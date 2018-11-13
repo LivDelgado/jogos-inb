@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="171" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tiles03" tilewidth="32" tileheight="32">
+  <image source="tiles03.png" width="384" height="576"/>
+ </tileset>
+ <layer name="plats" width="25" height="171">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2WWQ6DMAxEe/8Dcb6qUvtTEeJlZmKCR+KnDX7Ga44XV8f3UTAYLJbdqA+zx2sPwagQo52FyHnUtoc1OpdldH3VVbY2vbXBZFy9b2FYfLC+P+ojLyMbKwsDrd0Y7HldSUyfGPGc2V6xa5m2IyzEjB6xULYr90Qrr87/vaXIT8UaUNSq4lsZjFksZvGK+LSKccb0+jSLVYZhkTcWCkZEZ7FZMTtUs4F9n1IwnqyKcVQw71AbmfgreiW6v6owMnWGmF0Ixv95r1YyMjWdtbWCkek36zu9/86lupdkfGIwsj4gbStq0Zo7JQNRG9kdwow/i4HqVRSnFRNy7rb2ULX8K3cTmqWIZaZvz85Yf0P4hdydT51lO3/bT4o8R+NWkRHhZHt79v+utfkRYh6N4qPcf3dnoGXJS/a7PIwZb3QG2X8rGIx9zmAw+r+1VorcdB1o+uPqfQvT4gdiFlnOP0ns+cmc0YqZr94rilmFjDlDyviyWNXuIH03ao3UtbGP1HdqlB31nh3xFQzVrlExrliKGfJEhrd3Is8b4nwbecxCAAA=
+  </data>
+ </layer>
+</map>
